@@ -5,7 +5,11 @@ Requirements:
 - poetry package manager
 
 # Initialize the tool
-Clone the repo and cd into the root directory. Run the following command:
+Clone the repo and cd into the root directory.
+
+    git clone git@github.com:deancochran/dummy_data_csv_maker.git
+
+Run the following command:
     poetry install
 
 Then start the virtual enviornment with 
